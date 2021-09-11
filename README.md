@@ -6,3 +6,5 @@ Research <- "ecological and evolutionary aspects of seabirds"
 Supervisor <- "Prof. Dr. Guilherme Tavares Nunes"
 
 Contact <- "gtnbiomar[at]gmail[dot]com"
+
+FindUs <- "https://professor.ufrgs.br/tavaresnunes"
