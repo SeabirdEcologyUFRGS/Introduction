@@ -7,4 +7,4 @@ Supervisor <- "Prof. Dr. Guilherme Tavares Nunes"
 
 Contact <- "gtnbiomar[at]gmail[dot]com"
 
-FindUs <- "https://professor.ufrgs.br/tavaresnunes"
+HomePage <- "https://professor.ufrgs.br/tavaresnunes"
