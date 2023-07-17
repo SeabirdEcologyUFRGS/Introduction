@@ -7,4 +7,4 @@ Supervisor <- "Prof. Dr. Guilherme Tavares Nunes"
 
 Contact <- "gtnbiomar[at]gmail[dot]com"
 
-HomePage <- "(https://www.ufrgs.br/seabirdecology/)https://www.ufrgs.br/seabirdecology/"
+HomePage <- "https://www.ufrgs.br/seabirdecology/"
